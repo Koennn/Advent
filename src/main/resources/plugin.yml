@@ -1,0 +1,4 @@
+name: Advent
+version: ${project.version}
+main: me.koenn.advent.Advent
+authors: [Koenn]
